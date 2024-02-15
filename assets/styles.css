@@ -79,7 +79,7 @@
     .box-content 
     {
         padding: 20px;
-        text-align: justify;
+        text-align: left;
         display: flex;
         flex-direction: column;
     }
@@ -90,13 +90,6 @@
 
     .box-content img {
         width: 80px;
-    }
-
-    .box-content {
-        padding: 10px;
-        text-align: justify;
-        display: flex;
-        flex-direction: column;
     }
     
     .box-small {
