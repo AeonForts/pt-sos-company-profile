@@ -204,7 +204,7 @@
 .txt-header {
     width: max-content;
     color: #454553;
-    font-size: 50px;
+    font-size: 40px;
     border-bottom: 10px solid #4AA0D5;
 }
 
@@ -313,6 +313,8 @@
     .pos-absolute {
         position: relative;
     }
+
+    
 
 }
 
@@ -579,6 +581,10 @@
 
     .image-section {
         text-align: center;
+    }
+
+    .footer-container img {
+        max-height: 100px;
     }
 }
 
